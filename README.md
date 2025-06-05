@@ -61,11 +61,7 @@ One key limitation of this analysis is the absence of explicit field goal and pu
     * `Zone_vs_Gap.py`
     * `4th_and_1.py`
     * `4th_beyond_1`
-* `Data` Contains the raw and processed datasets used in the analysis.
-    * `plays.csv`
-    * `player_play.csv`
-    * `players.csv`
-    * `games.csv`
+* `Data` can be found here: https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data
 * `NFL_Optimization_Complete.pdf/`: Full analysis report (PDF).
 
 ## Contact
